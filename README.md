@@ -13,3 +13,4 @@
 - [sparseglm](https://github.com/PABannier/sparseglm), a fast coordinate descent solver in Rust
 - [Automatic hyperparameter selection technique for Lasso-like models](https://github.com/PABannier/automatic_hp_selection_for_meg)
 - [shelf](https://github.com/PABannier/shelf), a (under construction) lightweight concurrent distributed file system in Rust
+- [nanograd](https://github.com/PABannier/nanograd), a lightweight deep learning framework built around Numpy arrays 
