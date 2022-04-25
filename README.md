@@ -1,9 +1,9 @@
 ## About me
-- :school: I am a Graduate Student at Ecole Polytechnique and HEC Paris
-- :technologist: Previously, I worked as a machine learning research scientist at INRIA
+- I graduated from Ecole Polytechnique and HEC Paris with a double major in data science and management
+- Previously, I worked as a machine learning research scientist at INRIA
 
 
-## Some of my OSS contributions
+## OSS contributions
 - [MNE-Python](https://github.com/mne-tools/mne-python)
 - [linfa](https://github.com/rust-ml/linfa)
 - [Numba](https://github.com/numba/numba)
