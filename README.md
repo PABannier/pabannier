@@ -7,6 +7,7 @@
 - [MNE-Python](https://github.com/mne-tools/mne-python)
 - [linfa](https://github.com/rust-ml/linfa)
 - [Numba](https://github.com/numba/numba)
+- [skglm](https://github.com/scikit-learn-contrib/skglm)
 
 
 ## Some of my personal projects
