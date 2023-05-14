@@ -16,3 +16,4 @@
 - [sparseglm](https://github.com/PABannier/sparseglm), a fast coordinate descent solver in Rust
 - [nanograd](https://github.com/PABannier/nanograd), a lightweight deep learning framework built around Numpy arrays 
 - [rust-ggml](https://github.com/PABannier/rust-ggml), Rust bindings for the C tensor-computing library ggml
+- [BioGPT.cpp](https://github.com/PABannier/biogpt.cpp), a port of Microsoft's BioGPT model in C/C++
