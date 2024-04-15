@@ -1,18 +1,20 @@
 ## About me
-- I work as a Data Scientist at Owkin, an AI biotech. My research is focused on developing and applying computer vision techniques to histology and spatial omics data.
-- Previously, I worked as a research scientist at [INRIA Parietal](https://team.inria.fr/parietal/) on solving neuroscience (M/EEG) inverse problems and optimization for sparse linear models.
+- I work as a Data Scientist at AI biotech Owkin.
+- Previously, I interned at [INRIA Parietal](https://team.inria.fr/parietal/) on solving neuroscience (M/EEG) inverse problems.
 - I graduated from Ecole Polytechnique and HEC Paris with a double major in data science and management.
 
-## Some OSS projects I contributed to
+In 2022, I co-created [skglm](https://github.com/scikit-learn-contrib/skglm), a fast sklearn-compatible solver for sparse generalized linear models.
+More recently, I've become interested in fast inference for large language models. I have implemented [bark.cpp](https://github.com/PABannier/bark.cpp),
+a port of SunoAI's Bark model in C/C++, as well as specialized models like [BioGPT.cpp](https://github.com/PABannier/biogpt.cpp).
 
-- [skglm](https://github.com/scikit-learn-contrib/skglm), a fast sklearn-compatible solver for sparse generalized linear models
+## Cool open-source projects I contributed to
+
 - [MNE-Python](https://github.com/mne-tools/mne-python), a toolkit for exploring neurophysiological data in Python
 - [linfa](https://github.com/rust-ml/linfa), the leading crate for machine learning and data analysis in Rust
 - [benchopt](https://github.com/benchopt/benchopt), a benchmarking suite for optimization algorithms
 
-
-## Some personal projects
+## Other projects I worked on
+- [encodec.cpp](https://github.com/PABannier/encodec.cpp), Meta's neural codec model ported in C++
 - [sparseglm](https://github.com/PABannier/sparseglm), a fast coordinate descent solver in Rust
 - [nanograd](https://github.com/PABannier/nanograd), a lightweight deep learning framework built around Numpy arrays
-- [BioGPT.cpp](https://github.com/PABannier/biogpt.cpp), a port of Microsoft's BioGPT model in C/C++
-- [bark.cpp](https://github.com/PABannier/bark.cpp), a port of SunoAI's Bark model in C/C++
+- [NarrateMate.ai](https://github.com/PABannier/NarrateMate.ai), a Next.JS web app to practice language comprehension listening to YouTube videos
