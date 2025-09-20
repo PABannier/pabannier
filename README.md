@@ -1,19 +1,9 @@
-## About me
-- I work as a Data Scientist at AI biotech [Owkin](https://www.owkin.com/), working on digital pathology.
-- I am also a software engineer and avid open-source contributor.
-- Previously, I interned at [INRIA Parietal](https://team.inria.fr/parietal/) on solving neuroscience (M/EEG) inverse problems.
-- I graduated from Ecole Polytechnique and HEC Paris with a double major in data science and management.
+### Hi there 👋
 
-## Cool open-source projects I contributed to
+I am a machine learning scientist at AI techbio [Owkin](https://www.owkin.com/). 🧬
 
-- [MNE-Python](https://github.com/mne-tools/mne-python), a toolkit for exploring neurophysiological data in Python
-- [Linfa](https://github.com/rust-ml/linfa), the leading crate for machine learning and data analysis in Rust
-- [Benchopt](https://github.com/benchopt/benchopt), a benchmarking suite for optimization algorithms
-- [ggml](https://github.com/ggerganov/ggml), a tensor computing library in C
-
-## Other projects I worked on
-- [Bark.cpp](https://github.com/PABannier/bark.cpp), Suno AI's Bark model ported in C++
-- [Encodec.cpp](https://github.com/PABannier/encodec.cpp), Meta's neural codec model ported in C++
-- [SparseGLM](https://github.com/PABannier/sparseglm), a fast Coordinate Descent solver in Rust
-- [Nanograd](https://github.com/PABannier/nanograd), a lightweight Deep Learning framework built around Numpy arrays
-- [NarrateMate.ai](https://github.com/PABannier/NarrateMate.ai), a Next.JS web app to practice language comprehension listening to YouTube videos
+- 🧬 I co-created HistoPLUS, a state-of-the-art model for cell detection, segmentation, and classification on histopathology slides.
+- 📈 I co-developed [skglm](https://github.com/scikit-learn-contrib/skglm) (published at [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fe5c31e525e9a26a1426ab0b589f42fe-Abstract-Conference.html)), a fast solver for sparse optimization problems — used in production by energy companies and hedge funds for demand forecasting and market prediction.
+- 🔊 I built [bark.cpp](https://github.com/PABannier/bark.cpp), a C++ adaptation of the Bark TTS model using `ggml`, now powering several startups’ text-to-speech products.
+- 🧪 I [publish research](https://scholar.google.ch/citations?user=77JN6OcAAAAJ) in computer vision and machine learning, with a focus on applications in medical imaging.
+- 📘 I am writing [a book](https://github.com/) on building and optimizing your own key–value store in Rust.
