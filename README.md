@@ -1,6 +1,6 @@
 # Hi, I'm Pierre-Antoine 👋
 
-Co-founder of **Moira Bio**, building "virtual tissue" models from spatial transcriptomics. Previously Senior Data Scientist at [Owkin](https://www.owkin.com) (2022–2026), where I shipped deep-learning models for pathology into pharma-facing studies and first-authored papers in *Nature Communications* and *Histopathology*. Before that, sparse optimization research at Inria.
+Machine learning for biology. Currently interested in virtual tissue models and perturbation modelling from spatial omics. Previously Senior Data Scientist at [Owkin](https://www.owkin.com) (2022–2026), where I shipped deep-learning models for pathology into pharma-facing studies and first-authored papers in *Nature Communications* and *Histopathology*. Before that, sparse optimization research at Inria.
 
 I like writing fast, portable code for ML and biology: C/C++ inference engines, Rust servers for gigapixel images, and GPU kernels.
 
@@ -55,7 +55,7 @@ I like writing fast, portable code for ML and biology: C/C++ inference engines, 
 
 ## What I'm interested in
 
-- Spatial omics and virtual tissue models
+- Virtual tissue models and perturbation modelling from spatial omics
 - Computational pathology and foundation models for histology
 - Optimal transport and sparse optimization
 - Making ML models run fast on whatever hardware is in front of me: C/C++, Rust, CUDA, Metal
